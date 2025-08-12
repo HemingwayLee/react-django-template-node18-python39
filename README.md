@@ -4,7 +4,7 @@
 * Auto reload feature is there
 
 # Version
-* python 3.9 and nodejs 18
+* python 3.9 and nodejs 16
 
 # How to run
 ```

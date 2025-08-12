@@ -1,7 +1,7 @@
 FROM python:3.9.23
 
 RUN apt-get update && apt-get install -y net-tools postgresql-client curl sudo
-RUN curl -sL https://deb.nodesource.com/setup_18.x | sudo bash -
+RUN curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -
 RUN apt-get install -y nodejs
 
 
